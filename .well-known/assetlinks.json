@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ai.lexn",
+      "sha256_cert_fingerprints": [
+        "AC:3B:54:19:DB:89:69:E5:B0:58:AE:62:FD:2F:D3:DA:26:4D:FC:30:92:4E:6E:5F:8E:2A:87:C8:42:77:EB:7D"
+      ]
+    }
+  }
+]
